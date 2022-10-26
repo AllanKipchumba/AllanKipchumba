@@ -3,9 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/devallan_" target="blank"><img src="https://img.shields.io/twitter/follow/devallan_?logo=twitter&style=for-the-badge" alt="devallan_" /></a> </p>
 
-- 🔭 I’m currently working on [StoryHub](https://storyhub-ui.vercel.app/)
-
-- 🌱 I’m currently learning **Search Engine Optimization**
+- 🌱 I’m currently learning **TypeScript**
 
 - 👨‍💻 You can look up some of my projects at [https://portfolio-site-allankipchumba.vercel.app/](https://portfolio-site-allankipchumba.vercel.app/)
 
