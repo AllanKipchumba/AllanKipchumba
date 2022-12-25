@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Allan Kipchumba</h1>
-<h3 align="center">Passionate React Developer.</h3>
+<h3 align="center">Passionate Developer.</h3>
 
 <p align="left"> <a href="https://twitter.com/devallan_" target="blank"><img src="https://img.shields.io/twitter/follow/devallan_?logo=twitter&style=for-the-badge" alt="devallan_" /></a> </p>
 
